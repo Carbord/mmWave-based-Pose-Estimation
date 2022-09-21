@@ -13,4 +13,4 @@ We collect the radar data, i.e., range-Doppler map(RDM) sequence, from three sce
 
 
 3. The skeleton data is stored as the npy file with the shape of 400  * 17 * 3, where a 17-joint human skeleton tree is adopted for human pose esitmation.
-![image](https://github.com/Carbord/mmWave-based-Pose-Estimation/blob/main/images/room_layout.png)
+![image](https://github.com/Carbord/mmWave-based-Pose-Estimation/blob/main/images/skeleton_tree.png?raw=true)
