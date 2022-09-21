@@ -1,4 +1,7 @@
-# The dataset for mmWave-based human pose estimation will be released soon !
+# A Joint Global–Local Network for Human PoseEstimation With Millimeter Wave Radar （IEEE Internet of Things Journal 2022）
+
+# **BibTex**
+
 
 # **Experiment setting**<br>
 We collect the radar data, i.e., range-Doppler map(RDM) sequence, from three scernarios. The pictures and layouts are shown as follows:
