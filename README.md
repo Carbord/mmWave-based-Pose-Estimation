@@ -1,7 +1,15 @@
 # A Joint Global–Local Network for Human PoseEstimation With Millimeter Wave Radar （IEEE Internet of Things Journal 2022）
 
 # **BibTex**
-
+@ARTICLE{9865148,<br>
+  author={Cao, Zhongping and Ding, Wen and Chen, Rihui and Zhang, Jianxiong and Guo, Xuemei and Wang, Guoli},<br>
+  journal={IEEE Internet of Things Journal}, <br>
+  title={A Joint Global-Local Network for Human Pose Estimation with Millimeter Wave Radar}, <br>
+  year={2022},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1-1},<br>
+  doi={10.1109/JIOT.2022.3201005}}
 
 # **Experiment setting**<br>
 We collect the radar data, i.e., range-Doppler map(RDM) sequence, from three scernarios. The pictures and layouts are shown as follows:
